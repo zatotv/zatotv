@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zatotv
-- 👀 I’m interested in Blockchain
-- 🌱 I’m currently learning JS/TS
+- 👀 I’m interested in Programming (Python/JS/TS)
+- 🌱 I’m currently learning Python to Intermediate
 - 💞️ I’m looking to collaborate on a lot of futuristic projects
 - 📫 How to reach me www.themagicbot.com / www.denny-hupfer.de
 
